@@ -1,0 +1,20 @@
+div {
+  width: 200px;
+  height: 200px;
+  margin: 4px;
+  background-color: black
+}
+
+.select {
+  background-color: blue;
+}
+
+.btns {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  width: auto;
+  height: auto;
+  margin: auto;
+  background-color: transparent;
+}
